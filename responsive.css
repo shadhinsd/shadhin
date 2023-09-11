@@ -1,0 +1,14 @@
+@media screen and (max-width:568px){
+         .left-area p{
+             font-size: 20px;
+         }
+  .right-area input[type="text"], .right-area input[type="password"]{
+    width: 100%;
+    box-sizing: border-box;
+    border: 1px solid #bdc7d8;
+    border-radius: 5px;
+    padding: 10px 15px;
+    font-size: 7px;
+    margin: 2px 0;
+  }
+}
